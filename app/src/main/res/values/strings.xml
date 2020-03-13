@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">检测心率</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="show">显示</string>
+    <string name="pulse">脉冲数是</string>
+    <string name="avg_pixel_values">红色平均像素值是</string>
+    <string name="heart_rate">您的心率是</string>
+    <string name="value"> 值</string>
+    <string name="user_guide">请用您的指尖盖住摄像头镜头！</string>
+
+</resources>
